@@ -1,2 +1,2 @@
 def assert_add():
-    assert 3 + 2 > 4
+    assert 3 + 1 > 4
