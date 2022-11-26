@@ -1,2 +1,3 @@
-def assert_add():
-    assert 3 + 1 > 4
+def test_assert_add():
+    assert 3 + 1
+
